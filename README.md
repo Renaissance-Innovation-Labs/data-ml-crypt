@@ -25,7 +25,7 @@ To get started with this repository, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-link>
+    git clone https://github.com/Renaissance-Innovation-Labs/data-ml-crypt.git
     ```
 
 2. **Navigate to the project directory:**
